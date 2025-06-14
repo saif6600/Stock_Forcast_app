@@ -4,3 +4,4 @@ matplotlib
 statsmodels
 prophet
 lstm
+scikit-learn
