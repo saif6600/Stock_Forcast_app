@@ -5,3 +5,4 @@ statsmodels
 prophet
 lstm
 scikit-learn
+tensorflow
